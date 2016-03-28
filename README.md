@@ -1,7 +1,7 @@
 # Most-View-Post-Wordpress
 Get &amp; Set the most view post in Wordpress
 
-GET THE COUNT VIEWS IN POST 
+GET THE COUNT VIEWS IN POST <br>
 
 USE IN THE WP LOOP: get_post_view_count($post->ID);
 USE IN WP QUERY:
