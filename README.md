@@ -4,7 +4,7 @@
 
 <b>USE IN THE WP LOOP:</b> get_post_view_count($post->ID);<br><br>
 <b>USE IN WP QUERY:</b><br>
-&nbsp;	$args    = array(<br>
+&nbsp;&nbsp;&nbsp;&nbsp;$args    = array(<br>
 &nbsp;	'numberposts' => 4,<br>
 &nbsp;	'orderby'     => 'meta_value',<br>
 &nbsp;	'meta_key'    => 'post_views_count',<br>
